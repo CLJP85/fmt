@@ -9,13 +9,8 @@
   </div>
 </div>
 
-
-
-<div class="tb-container">
   <div class="row">
-    
-
-    <div class="content">
+ <div class="content">
  <h2>Just a quick note from Christopher Peters - i'm just copying from their main website for tribute - but i need a PKGBUILD and didnt know how to put this onto my cachyOS install so had to learn a little bit</h2>     
   <section id="overview">
 <h1>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h1>
