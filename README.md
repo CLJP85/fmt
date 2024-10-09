@@ -1,3 +1,4 @@
+<html>
  <body role="document">
 <nav class="navbar navbar-inverse">
   <div class="tb-container">
@@ -255,3 +256,4 @@ using the library both in open-source and commercial projects.</p>
 <script src="_static/bootstrap.min.js"></script>
 
   </body>
+</html>
