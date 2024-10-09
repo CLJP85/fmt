@@ -159,14 +159,9 @@ using the library both in open-source and commercial projects.</p>
           class="github-btn" width="100" height="20"></iframe>
 </div></section>
 </section>
-
-
     </div>
   </div>
 </div>
-
-
-
     <div class="footer" role="contentinfo">
         &copy; Copyright 2012-present, Victor Zverovich.
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.3.0.
