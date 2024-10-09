@@ -5,13 +5,10 @@
   <div class="tb-container">
     <h1>{fmt}</h1>
     <p class="lead">A modern formatting library</p>
-    <div class="btn-group" role="group">
+    
       
-      <a class="btn btn-success"
-         href="https://github.com/fmtlib/fmt/releases/download/10.0.0/fmt-10.0.0.zip">
-           <span class="glyphicon glyphicon-download"></span> Download
-      </a>
-    </div>
+      <a href="https://github.com/fmtlib/fmt/releases/download/10.0.0/fmt-10.0.0.zip"> Download </a>
+   
   </div>
 </div>
 
