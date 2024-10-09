@@ -1,14 +1,11 @@
 <html>
  <body role="document">
 
-<div class="jumbotron">
-  <div class="tb-container">
+<div>
+  <div>
     <h1>{fmt}</h1>
-    <p class="lead">A modern formatting library</p>
-    
-      
-      <a href="https://github.com/fmtlib/fmt/releases/download/10.0.0/fmt-10.0.0.zip"> Download </a>
-   
+    <p>A modern formatting library</p>
+   <a href="https://github.com/fmtlib/fmt/releases/download/10.0.0/fmt-10.0.0.zip"> Download </a>   
   </div>
 </div>
 
