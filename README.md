@@ -155,11 +155,8 @@ using the library both in open-source and commercial projects.</p>
 <a class="btn btn-success" href="https://github.com/fmtlib/fmt">GitHub Repository</a>
 
 <div class="section footer">
-  <iframe src="https://ghbtns.com/github-btn.html?user=fmtlib&amp;repo=fmt&amp;type=watch&amp;count=true"
-          class="github-btn" width="100" height="20"></iframe>
-</div></section>
-</section>
-    </div>
+  
+   </div>
   </div>
 </div>
     <div class="footer" role="contentinfo">
@@ -167,7 +164,6 @@ using the library both in open-source and commercial projects.</p>
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.3.0.
     </div>
 
-<script src="_static/bootstrap.min.js"></script>
 
   </body>
 </html>
